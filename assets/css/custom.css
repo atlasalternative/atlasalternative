@@ -1,0 +1,68 @@
+@font-face {
+  font-family: "EB Garamond";
+  src: url("/fonts/EBGaramond-VariableFont_wght.ttf") format("truetype");
+  font-weight: 400 800;
+  font-style: normal;
+}
+
+/* Main body */
+body {
+  font-family: "EB Garamond", serif;
+}
+
+/* Normal text */
+p {
+  font-size: 24px !important;
+  line-height: 1.6;
+}
+
+/* Main page title */
+h1 {
+  font-size: 48px !important;
+  line-height: 1.1;
+  font-weight: 600;
+}
+
+/* Major section headings */
+h2 {
+  font-size: 34px !important;
+  line-height: 1.2;
+  font-weight: 600;
+}
+
+/* Smaller headings */
+h3 {
+  font-size: 26px !important;
+  line-height: 1.3;
+  font-weight: 600;
+}
+
+/* Small headings */
+h4 {
+  font-size: 21px !important;
+  line-height: 1.3;
+  font-weight: 600;
+}
+
+/* Links */
+a {
+  font-family: "EB Garamond", serif;
+}
+
+/* Lists */
+li {
+  font-size: 18px !important;
+  line-height: 1.6;
+}
+
+/* Quotes */
+blockquote {
+  font-size: 21px;
+  line-height: 1.5;
+  font-style: italic;
+}
+
+.article-content {
+  max-width: 900px !important;
+  width: 100% !important;
+}
