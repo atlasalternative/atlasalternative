@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/about-me/</loc>
+    <loc>/about-me/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/other-great-pages/</loc>
+    <loc>/other-great-pages/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/singapore/smol-tech/</loc>
+    <loc>/singapore/smol-tech/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/singapore/nature/wildlife/</loc>
+    <loc>/singapore/nature/wildlife/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/singapore/</loc>
+    <loc>/singapore/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
